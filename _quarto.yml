@@ -28,6 +28,11 @@ website:
       - text: "Course"
         href: course/index.qmd
     right:
+    - text: Discussions
+      href: https://github.com/UMGCCCFCSR/CytometryInR/discussions
+    - icon: youtube
+      href: https://www.youtube.com/@CytometryInR
+      aria-label: YouTube
     - icon: github
       href: https://github.com/UMGCCCFCSR/CytometryInR
       aria-label: GitHub
